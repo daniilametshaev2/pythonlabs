@@ -1,0 +1,4 @@
+userId,jobTitle,firstName,lastName,employeeCode,region,phoneNumber,emailAddress
+tin,Program Directory,Tin,Jonson,E3,CA,2222222,tin.jonson@learningcontainer.com
+grace,Business Analyst,Grace,Anderson,E10,GA,9999999,grace.anderson@learningcontainer.com
+bob,Data Scientist,Bob,Brown,E5,TX,4444444,bob.brown@learningcontainer.com
